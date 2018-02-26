@@ -1,4 +1,4 @@
-#Customizing your USB### Customizing Your USB
+### Customizing Your USB
 _(this is my take on the assignment)_ 
 
 I am assuming "customize your USB" means the Debian based OS we downloaded. So to change up my Ubuntu display, I decided that I wanted to add virtual desktops to help with organization on future projects. To do this, you will need to use your web browser and terminal. 
